@@ -11,7 +11,7 @@ A passionate frontend developer from VietNam
 - 🚀 I love creating fun, dynamic, and slightly crazy projects  
 - 🤖 Skilled in using AI tools to support coding, problem-solving, and content creation  
 - 👨‍💻 My projects:  
-👉 https://github.com/biennguyencong25032007-hub  
+👉 https://github.com/punpun1807
 
 <h2>🔥 Connect with me:</h2>
 
@@ -21,12 +21,12 @@ A passionate frontend developer from VietNam
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.facebook.com/bein.cnoq88" target="_blank">
+<a href="https://www.facebook.com/tran.ang.hoang.quan/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="34"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/iblameweight/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34"/>
 </a>
 &nbsp;&nbsp;
