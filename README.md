@@ -2,9 +2,9 @@
 <tr style="border: none;">
 <td width="65%" style="border: none;">
 
-<h1>Hi 👋, I'm Hquan18  </h1>
+<h1>yo , im Hquan18 , a student who trying to learn  </h1>
 <h3>
-A passionate frontend developer from VietNam
+from VietNam
 </h3>
 
 - 👯 I’m looking to collaborate on **open source projects**  
