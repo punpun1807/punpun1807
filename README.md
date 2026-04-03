@@ -40,7 +40,7 @@ A passionate frontend developer from VietNam
 
 <td width="35%" align="center" style="border: none;">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90N3JwNTdlMWpjOTI2ZWJ6Z2FjYTB1eG13Ymt2aXI5b3dhaTM3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IsCG8RSzLNSFO/giphy.gif)" width="300"/>
 
 </td>
 </tr>
